@@ -22,24 +22,15 @@ Task 2: Use Case Federation
 --------------------------------------
 
 #. API Authorization with OAuth
-
-  - When to use it
-
+    When to use it
 #. F5 as OAuth Client and Resource Server
-
-  - When to use it
-
+    When to use it
 #. OAuth Authorization Server
-
-  - When to use it
-
+    When to use it
 #. SAML Identity Provider for Applications
-
-  - When to use it
-
+    When to use it
 #. SAML Service Provider
-
-  - When to use it
+    When to use it
 
 
 Task 3: Zero Trust
@@ -52,20 +43,16 @@ Task 4: Microsoft Integration
 -----------------------------
 
 #. ADFS Proxy
-
-  - Advantages
-
+    Advantages
 #. Exchange Proxy
-
-  - Advantages
+    Advantages
 
 
 Task 5: API Protection
 ----------------------------
 
 #. API Protection Proxy
-
-  - When to use it
+    When to use it
 
 
 
@@ -73,8 +60,7 @@ Task 6: Credential Protection
 ------------------------------
 
 #. Logon Protection
-
-  - When to use it
+    When to use it
 
 
 Lab 3 is now complete.
