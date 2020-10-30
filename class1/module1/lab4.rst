@@ -14,20 +14,33 @@ Lab Requirements
 Task 1: Authentication Types
 ---------------------------------------
 
-Radius
-LDAP
-Active Directory
-Active Directory Trusted Domains
-SecurID
-HTTP
-Oracle Access Manager
-OCSP Responder
-CRLDP
-TACACS+
-Kerberos
-Local DB Users
-Local DB Instances
-NTLM
+#. Radius
+
+#. LDAP
+
+#. Active Directory
+
+#. Active Directory Trusted Domains
+
+#. SecurID
+
+#. HTTP
+
+#. Oracle Access Manager
+
+#. OCSP Responder
+
+#. CRLDP
+
+#. TACACS+
+
+#. Kerberos
+
+#. Local DB Users
+
+#. Local DB Instances
+
+#. NTLM
 
 Task 2: Client Side Authentication
 --------------------------------------

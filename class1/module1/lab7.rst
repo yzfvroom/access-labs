@@ -14,43 +14,43 @@ Lab Requirements
 Task 1: Active Sessions
 ---------------------------------------
 
-Refresh Rate
+#. Refresh Rate
 
-Total Active sessions
+#. Total Active sessions
 
-Search
+#. Search
 
-Examine Session
+#. Examine Session
 
-Kill Selected sessions
+#. Kill Selected sessions
 
 
 
 Task 2: Access Reports
 --------------------------------------
 
-Report Parameters
+#. Report Parameters
 
-Session ID
-  Log messages
+#. Session ID
+  - Log messages
 
-View Session Variables
+#. View Session Variables
 
-Build in Reports
+#. Build in Reports
 
 
 Task 3: Log Settings
 --------------------------------------------------
 
-General information
+#. General information
 
-Access System Logs
+#. Access System Logs
 
-URL Request Logs
+#. URL Request Logs
 
-Access Profiles
+#. Access Profiles
 
-SSO Objects
+#. SSO Objects
 
 
 Task 4: Dashboard
